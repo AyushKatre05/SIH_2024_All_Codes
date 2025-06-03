@@ -1,6 +1,6 @@
 # Swachhta and LiFE Dashboard - Complete Code
 
-Welcome to the repository for **Swachhta and LiFE Dashboard**, an innovative project developed as part of **SIH 2024**. This solution aims to promote cleanliness and sustainable practices using AI, IoT integration, and modern web technologies.
+Welcome to the Swachhta and LiFE Dashboard repository—an innovative solution developed for SIH 2024. This project leverages AI, IoT integration, and modern web technologies to promote cleanliness and sustainable living practices
 
 ## Table of Contents
 
